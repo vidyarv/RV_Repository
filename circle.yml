@@ -8,3 +8,4 @@ machine:
 test:
   override:
     - sh build.sh
+    - sh buildNew.sh
